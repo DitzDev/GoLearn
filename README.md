@@ -1,6 +1,6 @@
 # GoLearn - Open Source Projects
 
-![GoLearn Logo](https://example.com/golearn-logo.png)
+![GoLearn Logo](/assets/golearn.png)
 
 GoLearn is a free coding learning app designed to help anyone learn coding easily and enjoyably. The app is built with React Native to provide a consistent experience across multiple platforms.
 
