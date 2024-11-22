@@ -4,8 +4,8 @@
 
 GoLearn is a free coding learning app designed to help anyone learn coding easily and enjoyably. The app is built with React Native to provide a consistent experience across multiple platforms.
 
-[![GoLearn Repository Stats](https://img.shields.io/github/stars/yourusername/golearn?style=social)](https://github.com/yourusername/golearn)
-[![GoLearn Forks](https://img.shields.io/github/forks/yourusername/golearn?style=social)](https://github.com/yourusername/golearn)
+[![GoLearn Repository Stats](https://img.shields.io/github/stars/DitzDev/GoLearn?style=social)]([[https://github.com/DitzDev/GoLearn])
+[![GoLearn Forks](https://img.shields.io/github/forks/DitzDev/GoLearn?style=social)](https://github.com/DitzDev/GoLearn)
 
 ## Main Features
 
@@ -28,9 +28,7 @@ We want GoLearn to be accessible to people all over the world. If you are intere
 
 ## Technologies Used
 
-- **React Native**: A framework for building mobile applications using JavaScript.
-- **Redux**: For managing the application state.
-- **React Navigation**: For navigation between screens within the app.
+- **React Native**: A framework for building mobile applications "Android" or "IOS" using TypeScript.
 
 ## License
 
@@ -38,6 +36,6 @@ GoLearn is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or suggestions, feel free to open an issue on GitHub or reach out to us via email: support@golearnapp.com.
+If you have any questions or suggestions, feel free to open an issue on GitHub or reach out to us via email: supportgolearn@gmail.com.
 
 Happy learning, and we hope GoLearn helps you achieve your coding goals!
